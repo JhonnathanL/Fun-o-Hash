@@ -1,5 +1,7 @@
 import hashlib
 
+#Jhonnathan de Sousa Pessoa RA: 22.120.031-4
+#Vinicius Cayres Gago RA: 22.120.037-1
 
 
 mensagens = [
